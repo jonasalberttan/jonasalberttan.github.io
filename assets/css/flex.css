@@ -13,6 +13,6 @@
     padding:0;
 }
 
-.plain-list li:first-child {
+.plain-list li .bold {
     font-weight: bold; /* Make the first item bold */
 }
