@@ -13,19 +13,22 @@ order: 4
 </div>
 
 ## Education
+
 <div class="flex">
     <div style="width:50%;">
         <ul class="plain-list">
             <li>Master in Information Technology</li>
-            <li>University of Mindanao</li>
+            <li>University of Southeastern Philippines</li>
             <li>2019 - 2023</li>
         </ul>    
     </div>
     <div style="width:50%;">
         <ul class="plain-list">
-            <li>Master in Information Technology</li>
+            <li>Bachelor of Science in Computer Science</li>
             <li>University of Mindanao</li>
-            <li>2019 - 2023</li>
+            <li>1998 - 2002</li>
         </ul>      
     </div>
 </div>
+
+## Experiences
