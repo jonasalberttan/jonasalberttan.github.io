@@ -34,13 +34,13 @@ order: 4
 ## Experiences
 
 <div class="flex">
-    <div style="width:50%;">
+    <div style="width:35%;">
         <ul class="plain-list">
             <li>Advisen Phl. Inc. (A Zywave Company)</li>
             <li>Dec 2023 - Mar 2024</li>
         </ul>    
     </div>
-    <div style="width:50%;">
+    <div style="width:65%;">
         <ul class="plain-list">
             <li>Advisen is the foremost provider of data, media and technology solutions for the commercial property and casualty insurance market. In 2020, Advisen was acquired by Zywave with headquarters in Milwaukee, Wisconsin. It is a leading insurance tech provider powering growth for its partners with over 15,000 customers in more than 10 countries across the globe. The tech stack use is base on Microsoft platform such as C# .NET and Azure. Work with product development team members in developing cutting edge, SaaS applications. On a regular basis, doing automation, test, provide feedback, review customer issues, document, debug, and troubleshoot modern web-based applications.</li>
             <li>
@@ -54,13 +54,13 @@ order: 4
 </div>
 
 <div class="flex">
-    <div style="width:50%;">
+    <div style="width:35%;">
         <ul class="plain-list">
             <li>Diagnostic Center (Confidential)</li>
             <li>Jul 2022 - Dec 2023</li>
         </ul>    
     </div>
-    <div style="width:50%;">
+    <div style="width:65%;">
         <ul class="plain-list">
             <li>Diagnostic Center (Confidential)</li>
             <li>Jul 2022 - Dec 2023</li>
