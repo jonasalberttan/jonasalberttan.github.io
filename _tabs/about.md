@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-<link rel="stylesheet" href="assets/css/flex.css" />
+<link rel="stylesheet" href="/assets/css/flex.css" />
 
 <div class="flex">
     <div align="justify">
