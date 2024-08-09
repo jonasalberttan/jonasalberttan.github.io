@@ -1,0 +1,18 @@
+.flex {
+    display: flex;
+}
+
+.plain-list {
+    list-style-type: none; /* Remove bullets or numbers */
+    padding: 0;
+    margin: 0;
+}
+
+.plain-list li {
+    margin-bottom: 5px;
+    padding:0;
+}
+
+.plain-list li:first-child {
+    font-weight: bold; /* Make the first item bold */
+}
