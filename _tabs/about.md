@@ -34,19 +34,19 @@ order: 4
 ## Experiences
 
 <div class="flex">
-    <div style="width:35%;">
+    <div style="width:40%;">
         <ul class="plain-list">
             <li>Advisen Phl. Inc. (A Zywave Company)</li>
             <li>Dec 2023 - Mar 2024</li>
         </ul>    
     </div>
-    <div style="width:65%;">
+    <div style="width:60%;">
         <ul class="plain-list">
-            <li>Advisen is the foremost provider of data, media and technology solutions for the commercial property and casualty insurance market. In 2020, Advisen was acquired by Zywave with headquarters in Milwaukee, Wisconsin. It is a leading insurance tech provider powering growth for its partners with over 15,000 customers in more than 10 countries across the globe. The tech stack use is base on Microsoft platform such as C# .NET and Azure. Work with product development team members in developing cutting edge, SaaS applications. On a regular basis, doing automation, test, provide feedback, review customer issues, document, debug, and troubleshoot modern web-based applications.</li>
+            <li align="justify">Advisen is the foremost provider of data, media and technology solutions for the commercial property and casualty insurance market. In 2020, Advisen was acquired by Zywave with headquarters in Milwaukee, Wisconsin. It is a leading insurance tech provider powering growth for its partners with over 15,000 customers in more than 10 countries across the globe. The tech stack use is base on Microsoft platform such as C# .NET and Azure. Work with product development team members in developing cutting edge, SaaS applications. On a regular basis, doing automation, test, provide feedback, review customer issues, document, debug, and troubleshoot modern web-based applications.</li>
             <li>
                 Senior Software Engineer - Team Lead
                 <ul>
-                    <li>During my short stint, my role involves automating data applications using Azure Data Factory to ingest, create, schedule, and orchestrate data workflows in the cloud. Set up a storage account to seamlessly upload data in CSV or JSON format. Streamlining data management processes within the Azure environment. Set up a Data Lake Storage Gen2. That combines the capabilities of Azure Blob Storage and Azure Data Lake Storage Gen1, providing a highly scalable and cost-effective solution for storing large amounts of structured and unstructured data. Imposed a meta-driven ingestion that allows a dynamic and flexible ingestion of data by leveraging metadata to define the structure, format, and location of the source data. This feature automates the process of ingesting data from various sources into Azure data stores, reducing manual effort and enabling faster data integration. By configuring metadata-driven ingestion, users can easily adapt to changes in data sources and schemas, ensuring efficient and reliable data ingestion pipelines. Created a utility pipeline to send email notifications for data pipeline monitoring, error handling, and scheduled job completion. Imposed an event-driven ingestion that facilitates the automatic ingestion of data based on predefined triggers or events. This approach eliminates the need for manual intervention, ensuring that data is promptly ingested into the system as soon as it becomes available, thereby enabling real-time data processing and analysis. Creation of a full cycle of a running pipeline (source and sink datasets, uploading of the source data, and executing triggers/events).</li>
+                    <li align="justify">During my short stint, my role involves automating data applications using Azure Data Factory to ingest, create, schedule, and orchestrate data workflows in the cloud. Set up a storage account to seamlessly upload data in CSV or JSON format. Streamlining data management processes within the Azure environment. Set up a Data Lake Storage Gen2. That combines the capabilities of Azure Blob Storage and Azure Data Lake Storage Gen1, providing a highly scalable and cost-effective solution for storing large amounts of structured and unstructured data. Imposed a meta-driven ingestion that allows a dynamic and flexible ingestion of data by leveraging metadata to define the structure, format, and location of the source data. This feature automates the process of ingesting data from various sources into Azure data stores, reducing manual effort and enabling faster data integration. By configuring metadata-driven ingestion, users can easily adapt to changes in data sources and schemas, ensuring efficient and reliable data ingestion pipelines. Created a utility pipeline to send email notifications for data pipeline monitoring, error handling, and scheduled job completion. Imposed an event-driven ingestion that facilitates the automatic ingestion of data based on predefined triggers or events. This approach eliminates the need for manual intervention, ensuring that data is promptly ingested into the system as soon as it becomes available, thereby enabling real-time data processing and analysis. Creation of a full cycle of a running pipeline (source and sink datasets, uploading of the source data, and executing triggers/events).</li>
                 </ul>    
             </li>
         </ul>      
@@ -54,13 +54,13 @@ order: 4
 </div>
 
 <div class="flex">
-    <div style="width:35%;">
+    <div style="width:40%;">
         <ul class="plain-list">
             <li>Diagnostic Center (Confidential)</li>
             <li>Jul 2022 - Dec 2023</li>
         </ul>    
     </div>
-    <div style="width:65%;">
+    <div style="width:60%;">
         <ul class="plain-list">
             <li>Diagnostic Center (Confidential)</li>
             <li>Jul 2022 - Dec 2023</li>
