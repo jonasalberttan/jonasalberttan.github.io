@@ -11,6 +11,7 @@
 .plain-list li {
     margin-bottom: 5px;
     padding:0;
+    text-align: justify;
 }
 
 .plain-list li .bold {
