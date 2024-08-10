@@ -15,11 +15,13 @@ Cryptonova is a price prediction tool designed to provide cryptocurrency price f
 > Github: [https://github.com/jonasalberttan/intocryptonova-ui-vuejs](https://github.com/jonasalberttan/intocryptonova-ui-vuejs)
 
 # Screenshots
-![](/assets/img/CryptoNova/Tab-Coins.JPG){: width="100" height="218" }
-![](/assets/img/CryptoNova/Tab-News.JPG)
-![](/assets/img/CryptoNova/Tab-Watchlist.png)
-![](/assets/img/CryptoNova/Tab-Insights.JPG)
-![](/assets/img/CryptoNova/Tab-Profile.JPG)
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="/assets/img/CryptoNova/Tab-Coins.JPG" alt="Tab-Coins" width="100" height="218" />
+  <img src="/assets/img/CryptoNova/Tab-News.JPG" alt="Tab-News" width="100" height="218" />
+  <img src="/assets/img/CryptoNova/Tab-Watchlist.JPG" alt="Tab-Watchlist" width="100" height="218" />
+  <img src="/assets/img/CryptoNova/Tab-Insights.JPG" alt="Tab-Insights" width="100" height="218" />
+  <img src="/assets/img/CryptoNova/Tab-Profile.JPG" alt="Tab-Profile" width="100" height="218" />
+</div>
 
 # Install the dependencies
 ```bash
