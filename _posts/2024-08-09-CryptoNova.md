@@ -31,14 +31,17 @@ For doing more with Quasar, you should also install the global CLI. With it you 
 
 # Install the dependencies
 
-<Tabs>
-  <TabItem value="yarn" label="Yarn" default>
-    yarn install
-  </TabItem>
-  <TabItem value="npm" label="npm">
+## Install the dependencies
+
+{% tabs Yarn npm %}
+  {% tab Yarn %}
+    ```bash
+    yarn
+  {% endtab %}
+  {% tab npm %} 
     npm install
-  </TabItem>
-</Tabs>
+  {% endtab %}  
+{% endtabs %}
 
 # Start the app in development mode.
 
