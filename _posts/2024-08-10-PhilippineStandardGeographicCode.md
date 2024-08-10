@@ -3,10 +3,6 @@ title: Philippine Standard Geographic Code (PSGC)
 date: 2024-08-10 12:00:00 +0800
 categories: [Data Files]
 tags: [data files]
-# image:
-#   path: /images/blazor-upload-download.jpg
-#   width: 1280   # in pixels
-#   height: 720   # in pixels
 ---
 
 ![Philippine Statistics Authority Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/PSA_%28Philippines%29.svg/1200px-PSA_%28Philippines%29.svg.png)
@@ -73,6 +69,5 @@ The Philippine Standard Geographic Code (PSGC) is more than just a set of number
 ---
 
 **References:**
-- [Philippine Statistics Authority](https://psa.gov.ph)
-- [National Economic and Development Authority (NEDA)](https://neda.gov.ph)
+- [Philippine Statistics Authority](https://psa.gov.ph/classification/psgc)
 
