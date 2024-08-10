@@ -30,9 +30,7 @@ Make sure that you have Node >=14 (or any newer LTS Node.js version) and NPM v6+
 For doing more with Quasar, you should also install the global CLI. With it you can directly run Quasar commands in the terminal, run a local http server for testing or do upgrades on your project.
 
 # Install the dependencies
-```md Markdown Example
-    For example, this is a code block
-```
+
 
 # Start the app in development mode.
 
