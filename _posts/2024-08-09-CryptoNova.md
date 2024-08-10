@@ -9,7 +9,7 @@ tags: [front-end, vuejs]
 #   height: 720   # in pixels
 ---
 
-<!-- ![](/assets/img/CryptoNova/cryptonova-logo.png){: .light .w-75 .shadow .rounded-10 w='1212' h='668' } -->
+![](/assets/img/CryptoNova/cryptonova-logo.png){: .light .w-75 .shadow .rounded-10 w='1212' h='668' }
 Cryptonova is a price prediction tool designed to provide cryptocurrency price forecasts. This project serves as a user interface proof-of-concept and it is built using a hybrid JavaScript front-end framework, combining the power of Vue.js and [Quasar Framework](https://quasar.dev/).
 
 # Install the dependencies
