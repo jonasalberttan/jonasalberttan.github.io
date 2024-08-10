@@ -5,7 +5,7 @@ categories: [Data Files]
 tags: [data files]
 ---
 
-![Philippine Statistics Authority Logo](https://en.m.wikipedia.org/wiki/File:Philippine_Statistics_Authority.svg)
+![Philippine Statistics Authority Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/a1/42/e4/a142e40c-7ecc-4fd5-1efe-1792fc5a2e14/AppIcons-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x600wa.png)
 
 # Understanding the Philippine Standard Geographic Code (PSGC)
 
