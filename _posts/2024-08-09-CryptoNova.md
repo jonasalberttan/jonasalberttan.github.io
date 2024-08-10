@@ -35,12 +35,8 @@ For doing more with Quasar, you should also install the global CLI. With it you 
 
 {% tabs Yarn npm %}
   {% tab Yarn %}
-    ```bash
-    yarn
+    fsdfsf
   {% endtab %}
-  {% tab npm %} 
-    npm install
-  {% endtab %}  
 {% endtabs %}
 
 # Start the app in development mode.
