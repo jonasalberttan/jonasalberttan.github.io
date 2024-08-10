@@ -23,12 +23,24 @@ Cryptonova is a price prediction tool designed to provide cryptocurrency price f
   <img src="/assets/img/CryptoNova/Tab-Profile.JPG" alt="Tab-Profile" width="322" height="703" />
 </div>
 
-# Install the dependencies
-```bash
-yarn
-# or
-npm install
-```
+# Prerequisites
+Make sure that you have Node >=14 (or any newer LTS Node.js version) and NPM v6+ or Yarn v1 (classic) or PNPM v8+ installed on your machine.
+
+# Optional - Install the Global CLI
+For doing more with Quasar, you should also install the global CLI. With it you can directly run Quasar commands in the terminal, run a local http server for testing or do upgrades on your project.
+
+## Install the dependencies
+
+=== "Yarn"
+    ```bash
+    yarn
+    ```
+
+=== "npm"
+    ```bash
+    npm install
+    ```
+
 # Start the app in development mode.
 
 ```bash
