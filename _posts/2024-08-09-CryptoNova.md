@@ -32,12 +32,15 @@ For doing more with Quasar, you should also install the global CLI. With it you 
 # Install the dependencies
 
 ## Install the dependencies
+```md Markdown Example codeCopyEnabled
+    For example, this is a code block
+```
+```md Markdowns Example codeCopyEnabled
+    For example, this is a code block
+```
 
-{% tabs Yarn npm %}
-  {% tab Yarn %}
-    fsdfsf
-  {% endtab %}
-{% endtabs %}
+
+
 
 # Start the app in development mode.
 
