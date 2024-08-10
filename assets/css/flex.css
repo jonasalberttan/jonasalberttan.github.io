@@ -8,7 +8,7 @@
     margin: 0;
 }
 
-.plain-list li {
+.plain-list > li {
     margin-bottom: 5px;
     padding:0;
     text-align: justify;
