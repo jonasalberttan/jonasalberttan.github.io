@@ -17,3 +17,7 @@
 .plain-list li .bold {
     font-weight: bold; /* Make the first item bold */
 }
+
+.bold {
+    font-weight: bold; /* Make the first item bold */
+}
