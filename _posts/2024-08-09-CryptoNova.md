@@ -9,8 +9,6 @@ image:
   height: 600   # in pixels
 ---
 
-# CryptoNova - A Price Prediction Tool For Cryptocurrencies
-
 Cryptonova is a price prediction tool designed to provide cryptocurrency price forecasts. This project serves as a user interface proof-of-concept and it is built using a hybrid JavaScript front-end framework, combining the power of Vue.js and [Quasar Framework](https://quasar.dev/).
 
 # Screenshots
