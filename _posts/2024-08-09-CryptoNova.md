@@ -29,6 +29,10 @@ Make sure that you have Node >=14 (or any newer LTS Node.js version) and NPM v6+
 # Optional - Install the Global CLI
 For doing more with Quasar, you should also install the global CLI. With it you can directly run Quasar commands in the terminal, run a local http server for testing or do upgrades on your project.
 
+```bash
+yarn global add @quasar/cli
+```
+
 # Install the dependencies
 ```bash
 yarn dev
