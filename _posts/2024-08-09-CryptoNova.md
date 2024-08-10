@@ -14,6 +14,13 @@ Cryptonova is a price prediction tool designed to provide cryptocurrency price f
 
 > Github: [https://github.com/jonasalberttan/intocryptonova-ui-vuejs](https://github.com/jonasalberttan/intocryptonova-ui-vuejs)
 
+# Screenshots
+![](/assets/img/CryptoNova/Tab-Coins.JPG)
+![](/assets/img/CryptoNova/Tab-News.JPG.JPG)
+![](/assets/img/CryptoNova/Tab-Watchlist.JPG)
+![](/assets/img/CryptoNova/Tab-Insights.JPG)
+![](/assets/img/CryptoNova/Tab-Profile.JPG)
+
 # Install the dependencies
 ```bash
 yarn
