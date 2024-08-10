@@ -16,11 +16,11 @@ Cryptonova is a price prediction tool designed to provide cryptocurrency price f
 
 # Screenshots
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="/assets/img/CryptoNova/Tab-Coins.JPG" alt="Tab-Coins" width="100" height="218" />
-  <img src="/assets/img/CryptoNova/Tab-News.JPG" alt="Tab-News" width="100" height="218" />
-  <img src="/assets/img/CryptoNova/Tab-Watchlist.JPG" alt="Tab-Watchlist" width="100" height="218" />
-  <img src="/assets/img/CryptoNova/Tab-Insights.JPG" alt="Tab-Insights" width="100" height="218" />
-  <img src="/assets/img/CryptoNova/Tab-Profile.JPG" alt="Tab-Profile" width="100" height="218" />
+  <img src="/assets/img/CryptoNova/Tab-Coins.JPG" alt="Tab-Coins" width="322" height="703" />
+  <img src="/assets/img/CryptoNova/Tab-News.JPG" alt="Tab-News" width="322" height="703" />
+  <img src="/assets/img/CryptoNova/Tab-Watchlist.JPG" alt="Tab-Watchlist" width="322" height="703" />
+  <img src="/assets/img/CryptoNova/Tab-Insights.JPG" alt="Tab-Insights" width="322" height="703" />
+  <img src="/assets/img/CryptoNova/Tab-Profile.JPG" alt="Tab-Profile" width="322" height="703" />
 </div>
 
 # Install the dependencies
