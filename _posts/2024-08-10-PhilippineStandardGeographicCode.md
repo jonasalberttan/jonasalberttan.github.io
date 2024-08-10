@@ -69,5 +69,6 @@ The Philippine Standard Geographic Code (PSGC) is more than just a set of number
 ---
 
 **References:**
-- [Philippine Statistics Authority](https://psa.gov.ph/classification/psgc)
+- <a href="https://psa.gov.ph/classification/psgc" target="_blank" rel="noopener noreferrer">Philippine Statistics Authority</a>
+
 
