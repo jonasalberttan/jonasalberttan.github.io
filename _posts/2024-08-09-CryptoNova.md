@@ -16,7 +16,7 @@ Cryptonova is a price prediction tool designed to provide cryptocurrency price f
 
 # Screenshots
 ![](/assets/img/CryptoNova/Tab-Coins.JPG)
-![](/assets/img/CryptoNova/Tab-News.JPG.JPG)
+![](/assets/img/CryptoNova/Tab-News.JPG)
 ![](/assets/img/CryptoNova/Tab-Watchlist.JPG)
 ![](/assets/img/CryptoNova/Tab-Insights.JPG)
 ![](/assets/img/CryptoNova/Tab-Profile.JPG)
